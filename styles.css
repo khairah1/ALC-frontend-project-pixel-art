@@ -38,3 +38,24 @@ td {
 input[type=number] {
     width: 6em;
 }
+
+a {
+    background-color: green;
+    color: white;
+    padding: .3em .5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    position: relative;
+}
+
+a:hover {
+    background-color: #555;
+}
+
+a:active {
+    background-color: black;
+}
+
+a:visited {
+    background-color: #000099;
+}
